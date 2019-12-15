@@ -1,2 +1,2 @@
 # C_Programms
-This is my first repository. 
+Here is my all C program, which i had practice for learning c language.
